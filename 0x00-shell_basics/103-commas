@@ -1,2 +1,2 @@
-#!bin/bash
-ls -amvp
+i#!bin/bash
+ls -xamvp
